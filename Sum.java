@@ -5,4 +5,10 @@ class Sum {
         //Added Comment
         System.out.println(a+b);
     }
+
+    public static int multiply() {
+        int a = 45;
+        int b = 43;
+        return a*b;
+    }
 }
